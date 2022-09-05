@@ -1,5 +1,5 @@
 baseURL = ''
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'wjc site'
 theme = "ananke"
-publishDir = 'docs'
+# publishDir = 'docs'
